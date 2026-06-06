@@ -1,48 +1,42 @@
-# 📊 Data Structures in C++
+# 📊 Data Structures in C++ 🚀
 
-This repository contains implementations of basic **Data Structures** using C++.
+A clean and simple implementation of fundamental **Data Structures** using C++.
 
-It is created for learning purposes and practicing problem solving.
-
----
-
-## 📌 What’s Inside
-
-- Arrays
-- Linked List
-- Stack
-- Queue
-- Binary Tree
-- Binary Search Tree (BST)
-- Graph (basic implementation if included)
-- Sorting algorithms
-- Searching algorithms
+This project is built for learning, practice, and improving problem-solving skills.
 
 ---
 
-## 🎯 Purpose
+## 🧠 What This Repo Covers
 
-- Learn how data structures work internally
-- Practice C++ programming
-- Improve problem-solving skills
-- Prepare for interviews and exams
-
----
-
-## 🛠️ Language
-
-- C++
+- Arrays (basic operations)
+- Linked List (Singly / Doubly)
+- Stack (Array & Linked List implementation)
+- Queue (Linear & Circular)
+- Trees (Binary Tree / BST)
+- Graphs (basic representation)
+- Sorting Algorithms
+- Searching Algorithms
 
 ---
 
-## 📂 Structure
+## 🎯 Why This Project?
 
-Each folder contains a separate implementation of a data structure with example code.
+I created this repo to:
+
+- Understand how data structures work internally
+- Strengthen C++ programming skills
+- Improve algorithmic thinking
+- Prepare for technical interviews
 
 ---
 
-## 🚀 How to Run
+## 🛠️ Tech Stack
 
-1. Clone the repo:
-```bash
-git clone https://github.com/USERNAME/REPO.git
+- Language: C++
+- No external libraries (pure implementation)
+
+---
+
+## 📁 Project Structure
+
+Each folder contains a standalone implementation:
