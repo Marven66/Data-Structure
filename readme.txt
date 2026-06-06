@@ -1,42 +1,74 @@
-# 📊 Data Structures in C++ 🚀
+📊 Data Structures in C++ 🚀
 
-A clean and simple implementation of fundamental **Data Structures** using C++.
+A clean and simple implementation of fundamental Data Structures using C++.
 
 This project is built for learning, practice, and improving problem-solving skills.
 
----
 
-## 🧠 What This Repo Covers
 
-- Arrays (basic operations)
-- Linked List (Singly / Doubly)
-- Stack (Array & Linked List implementation)
-- Queue (Linear & Circular)
-- Trees (Binary Tree / BST)
-- Graphs (basic representation)
-- Sorting Algorithms
-- Searching Algorithms
 
----
+🧠 What This Repository Covers
 
-## 🎯 Why This Project?
+This repository provides implementations of the following core data structures and algorithms:
 
-I created this repo to:
+•
+Arrays: Basic operations and manipulations.
 
-- Understand how data structures work internally
-- Strengthen C++ programming skills
-- Improve algorithmic thinking
-- Prepare for technical interviews
+•
+Linked Lists: Both singly and doubly linked list implementations.
 
----
+•
+Stack: Implementations using both arrays and linked lists.
 
-## 🛠️ Tech Stack
+•
+Queue: Linear and circular queue implementations.
 
-- Language: C++
-- No external libraries (pure implementation)
+•
+Trees: Binary Tree and Binary Search Tree (BST) structures.
 
----
+•
+Graphs: Basic representations and traversal concepts.
 
-## 📁 Project Structure
+•
+Sorting Algorithms: Various sorting techniques.
 
-Each folder contains a standalone implementation:
+•
+Searching Algorithms: Fundamental searching methods.
+
+
+
+
+🎯 Why This Project?
+
+This project was initiated with the following objectives:
+
+•
+To gain a deep understanding of the internal workings of various data structures.
+
+•
+To enhance proficiency in C++ programming.
+
+•
+To cultivate and improve algorithmic thinking.
+
+•
+To serve as a preparation resource for technical interviews.
+
+
+
+
+🛠️ Tech Stack
+
+•
+Language: C++
+
+•
+Libraries: No external libraries are used; all implementations are pure.
+
+
+
+
+📁 Project Structure
+
+Each major data structure or algorithm is organized into its own standalone folder, containing its respective implementation files.
+
